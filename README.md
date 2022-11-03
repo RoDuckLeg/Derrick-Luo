@@ -1,6 +1,6 @@
 ###  Hi, I’m @Derrick-Luo  罗诚👋
 
-\- 🍻 Junior at 🇨🇳 [HZNU](https://www.hznu.edu.cn/), *_Computer Science and Technology_*
+\- 🍻 Junior at [HZNU](https://www.hznu.edu.cn/), *_Computer Science and Technology_*
 
 \- ⚡ Java / Javascript.
 
